@@ -3,7 +3,6 @@ body
     font-family: 'Poppins', sans-serif;
     margin:0;
 }
-
 .opacity-paragraph
 {
     opacity:0.7;
@@ -30,7 +29,6 @@ h2
 {
     display:flex;
     margin-bottom:130px;
-
 }
 .half-width
 {
@@ -70,8 +68,6 @@ h2
 .experience-area{
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
-    
-    
 }
 
 #web-dev-experience
